@@ -9,3 +9,4 @@ GAME RULES:
 
 
 </h4>
+<img src="https://github.com/hi-manshu/PIG-Game-JavaScript/blob/master/1.png"/>
