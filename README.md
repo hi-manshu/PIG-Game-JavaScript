@@ -1,4 +1,4 @@
-<H2>
+<H4>
 GAME RULES:
 
 - The game has 2 players, playing in rounds
@@ -8,4 +8,4 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
-</h2>
+</h4>
